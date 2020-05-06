@@ -1,0 +1,30 @@
+body{
+	background-color: lightblue;
+	font-family: "Lucida Console", Courier, monospace
+}
+.table1{
+	border-top: 15px solid azure;
+	background-color: blue;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
+}
+.table2{
+	border-top: 15px solid azure;
+	background-color: darkblue;
+	font-family: "Trebuchet MS", Helvetica, sans-serif
+	color: red;
+}
+#judul{
+	font-family: Verdana, Geneva, sans-serif
+}
+h1{
+	color: beige;
+}
+ul{
+	color: cornflowerblue;
+}
+.table1{
+	color: cyan;
+}
+.table2{
+	color: bisque;
+}
